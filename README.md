@@ -1,5 +1,4 @@
-# House-program
-Open Gl house program
 
-Feel free to pull request 
-Aim is to create a complex 3D house
+# Open Gl House program
+
+Creating a complex 3D house in openGl.
